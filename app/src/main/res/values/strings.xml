@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MercadoTest</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="error_response">Error in server.</string>
+    <string name="select_a_payment_method">Select a payment method.</string>
+    <string name="loading">loading...</string>
+    <string name="select_the_card_provider">Select the card provider</string>
+    <string name="select_a_fee">Select a fee</string>
+    <string name="select_a_quote">Select a instalment</string>
+    <string name="enter_amount_no_greater_than_250_000">Enter amount no greater than 250.000</string>
+    <string name="please_enter_a_amount">Please enter a amount</string>
+    <string name="next">NEXT</string>
+    <string name="back">BACK</string>
+    <string name="done">Done!</string>
+    <string name="amount">Amount</string>
+    <string name="card_issuer">Card Issuer</string>
+    <string name="payment_method">Payment Method</string>
+    <string name="quotes">Installments</string>
+    <string name="no_data_available">No data available</string>
+
+</resources>

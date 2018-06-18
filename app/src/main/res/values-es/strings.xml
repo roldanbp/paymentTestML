@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MercadoTest</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Opciones</string>
+    <string name="error_response">Error en el servidor.</string>
+    <string name="select_a_payment_method">Seleciona un metodo de pago</string>
+    <string name="loading">Cargando...</string>
+    <string name="select_the_card_provider">Selecciona un emisor de tarjeta</string>
+    <string name="select_a_fee">Select a fee</string>
+    <string name="select_a_quote">"Selecciona una cuota "</string>
+    <string name="enter_amount_no_greater_than_250_000">Ingresa un monto no mayor a 250.000</string>
+    <string name="please_enter_a_amount">Porfavor, ingresa un monto</string>
+    <string name="next">SIGUIENTE</string>
+    <string name="back">ATRAS</string>
+    <string name="done">LISTO!</string>
+    <string name="amount">Monto</string>
+    <string name="card_issuer">Emisor de Tarjeta</string>
+    <string name="payment_method">Metodo de Pago</string>
+    <string name="quotes">Cuota</string>
+
+</resources>
